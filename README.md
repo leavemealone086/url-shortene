@@ -23,7 +23,7 @@ npm i react-router-dom
 ### โหลด QRCodeSVG:
 npm i qrcode-svg
 
-### เปิดFirestore Database ในFirebase แล้วตั้งค่าDatabase โหลด: $ npm install firebase แล้วเอา
+### เปิด Firebase แล้วตั้งค่าFirestore Database โหลด: $ npm install firebase แล้วเอา
 
 const firebaseConfig = {
     apiKey: "YOUR_API_KEY",
