@@ -20,7 +20,7 @@ function App() {
       </Router>
       <p className='container'> QR code</p>
 
-      <QRCodeSVG value={'https://www.youtube.com/watch?v=CMbYwYYFI3Y'} size="256"/>
+      <QRCodeSVG value={'/:slug'} size="256"/>
 
       
     </div>
