@@ -14,13 +14,16 @@ npm i particles-bg
 โหลด tiny-unique-id
 npm i tiny-unique-id
 
+โหลด React Bootstrap
+npm install react-bootstrap bootstrap@5.1.3
+
 โหลด react-router-dom
 npm i react-router-dom
 
 โหลด QRCodeSVG
 npm i qrcode-svg
 
-เปิดFirestore Database ในFirebase แล้วตั้งค่า
+เปิดFirestore Database ในFirebase แล้วตั้งค่าDatabase โหลด $ npm install firebase แล้วเอา
 
 const firebaseConfig = {
     apiKey: "YOUR_API_KEY",
