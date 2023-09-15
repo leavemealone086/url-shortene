@@ -35,7 +35,7 @@ const firebaseConfig = {
   };
 
 
-### เปิดnodn:
+### Run
 npm run start 
 
 
